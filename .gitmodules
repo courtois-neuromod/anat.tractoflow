@@ -1,0 +1,5 @@
+[submodule "sourcedata/cneuromod.anat.raw"]
+	path = sourcedata/cneuromod.anat.raw
+	url = /data/neuromod/ria-sequoia/alias/cneuromod.anat.raw
+	datalad-id = b376774c-889d-11ea-b60e-3ea8d101da1a
+	datalad-url = "ria+file:///data/neuromod/ria-sequoia#~cneuromod.anat.raw@rel/2022"
