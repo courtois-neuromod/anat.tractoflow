@@ -3,3 +3,8 @@
 	url = /data/neuromod/ria-sequoia/alias/cneuromod.anat.raw
 	datalad-id = b376774c-889d-11ea-b60e-3ea8d101da1a
 	datalad-url = "ria+file:///data/neuromod/ria-sequoia#~cneuromod.anat.raw@rel/2022"
+[submodule "sourcedata/cneuromod.anat.freesurfer"]
+	path = sourcedata/cneuromod.anat.freesurfer
+	url = /data/neuromod/ria-sequoia/alias/cneuromod.anat.freesurfer
+	datalad-id = e91589e2-3533-4b78-9bd2-660e2cc26a59
+	datalad-url = "ria+file:///data/neuromod/ria-sequoia#~cneuromod.anat.freesurfer@longitudinal"
